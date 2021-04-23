@@ -8,7 +8,7 @@
  */
 
 $namespaceNames = [
-	NS_SPECIAL          => 'nasa',
+	NS_SPECIAL          => 'ilo',
 	NS_TALK             => 'toki',
 	NS_USER             => 'jan',
 	NS_USER_TALK        => 'toki_jan',
