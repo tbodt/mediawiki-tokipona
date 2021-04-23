@@ -1,0 +1,15 @@
+{
+	"name": "TokiPona",
+	"Hooks": {
+		"Language::getMessagesFileName": "TokiPonaHooks::onGetMessagesFileName"
+	},
+	"AutoloadClasses": {
+		"TokiPonaHooks": "TokiPonaHooks.php"
+	},
+	"MessagesDirs": {
+		"TokiPona": [
+			"i18n"
+		]
+	},
+	"manifest_version": 2
+}
