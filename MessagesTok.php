@@ -24,3 +24,8 @@ $namespaceNames = [
 	NS_CATEGORY         => 'kulupu',
 	NS_CATEGORY_TALK    => 'toki_kulupu',
 ];
+
+$datePreferences = [
+	'ISO 8601',
+];
+$defaultDateFormat = 'ISO 8601';
