@@ -1,0 +1,17 @@
+{
+	"@metadata": {
+		"authors": [
+			"janTepo"
+		]
+	},
+	"vector-action-addsection": "o pana e wan sin",
+	"vector-action-delete": "o weka e lipu",
+	"vector-action-move": "o tawa e lipu",
+	"vector-action-protect": "o awen e lipu",
+	"vector-view-create": "o pali e lipu sin",
+	"vector-view-edit": "o ante",
+	"vector-view-history": "o lukin e tenpo pini",
+	"vector-view-view": "o lukin",
+	"vector-view-viewsource": "o lukin e toki ilo",
+	"vector-more-actions": "ijo ante"
+}

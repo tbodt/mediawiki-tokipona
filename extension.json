@@ -8,7 +8,9 @@
 	},
 	"MessagesDirs": {
 		"TokiPona": [
-			"i18n"
+			"core",
+			"skins/Vector",
+			"extensions/VisualEditor"
 		]
 	},
 	"manifest_version": 2

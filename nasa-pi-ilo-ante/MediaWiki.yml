@@ -1,0 +1,52 @@
+TEMPLATE:
+        BASIC:
+                namespace: NS_MEDIAWIKI
+
+        VALIDATORS:
+                - id: BraceBalance
+                - id: MediaWikiLink
+                - id: MediaWikiPageName
+                - id: MediaWikiParameter
+                - id: MediaWikiPlural
+                - id: MediaWikiTimeList
+                  keymatch:
+                        - ipboptions
+                        - protect-expiry-options
+                        - userrights-expiry-options
+                        - watchlist-expiry-options
+
+        INSERTABLES:
+                - class: MediaWikiInsertablesSuggester
+
+---
+BASIC:
+        id: core
+        label: MediaWiki core
+        class: FileBasedMessageGroup
+
+FILES:
+        class: JsonFFS
+        sourcePattern: "%GROUPROOT%/core/%CODE%.json"
+        definitionFile: "%MWROOT%/languages/i18n/%CODE%.json"
+
+---
+BASIC:
+        id: skin-Vector
+        label: Vector skin
+        class: FileBasedMessageGroup
+
+FILES:
+        class: JsonFFS
+        sourcePattern: "%GROUPROOT%/skins/Vector/%CODE%.json"
+        definitionFile: "%MWROOT%/skins/Vector/i18n/%CODE%.json"
+
+---
+BASIC:
+        id: extension-VisualEditor
+        label: VisualEditor extension
+        class: FileBasedMessageGroup
+
+FILES:
+        class: JsonFFS
+        sourcePattern: "%GROUPROOT%/extensions/VisualEditor/%CODE%.json"
+        definitionFile: "%MWROOT%/extensions/VisualEditor/i18n/ve-mw/%CODE%.json"
