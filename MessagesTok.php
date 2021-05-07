@@ -29,3 +29,7 @@ $datePreferences = [
 	'ISO 8601',
 ];
 $defaultDateFormat = 'ISO 8601';
+
+$specialPageAliases = [
+	'Categories' => [ 'kulupu_lipu' ],
+];
