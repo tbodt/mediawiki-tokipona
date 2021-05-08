@@ -1,9 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
+			"Tepo",
 			"janTepo"
 		]
 	},
+	"visualeditor-ca-createsource": "o pali e lipu sin kepeken toki ilo",
 	"visualeditor-ca-editsource": "o ante e toki ilo",
 	"visualeditor-ca-editsource-section": "o ante e toki ilo"
 }
