@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Tepo"
+		]
+	},
+	"mobile-frontend-changeslist-nocomment": "jan pali li toki ala e tan ante",
+	"mobile-frontend-copyright": "lipu li toki ala e ken ante la, lipu ken $1 li lawa e lipu ni.",
+	"mobile-frontend-search-content": "o alasa lon insa lipu",
+	"mobile-frontend-search-content-no-results": "sina ken <b>alasa lon insa lipu</b>.",
+	"mobile-frontend-search-no-results": "lipu ni li lon ala.",
+	"mobile-frontend-view": "lipu tawa ilo lili",
+	"mobile-frontend-view-desktop": "lipu tawa ilo suli"
+}
