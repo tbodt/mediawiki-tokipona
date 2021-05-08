@@ -4,5 +4,13 @@
 			"Tepo"
 		]
 	},
-	"mobile-frontend-editor-edit": "o ante"
+	"mobile-frontend-editor-edit": "o ante",
+	"mobile-frontend-history": "o lukin e tenpo pini pi lipu ni",
+	"mobile-frontend-home-button": "lipu open",
+	"mobile-frontend-logged-in-homepage-notification": "jan $1 o, kama pona!",
+	"mobile-frontend-main-menu-contributions": "ante mi",
+	"mobile-frontend-main-menu-watchlist": "lipu lukin",
+	"mobile-frontend-placeholder": "o alasa lon lipu {{SITENAME}}",
+	"mobile-frontend-random-button": "lipu pi sona ala",
+	"mobile-frontend-user-page-contributions": "ante ona"
 }
