@@ -21,7 +21,7 @@ TEMPLATE:
 ---
 BASIC:
         id: core
-        label: MediaWiki core
+        label: ilo MediaWiki
         class: FileBasedMessageGroup
 
 FILES:
@@ -32,7 +32,7 @@ FILES:
 ---
 BASIC:
         id: skin-Vector
-        label: Vector skin
+        label: selo Vector
         class: FileBasedMessageGroup
 
 FILES:
@@ -42,8 +42,18 @@ FILES:
 
 ---
 BASIC:
+        id: skin-MinervaNeue
+        label: selo MinervaNeue
+        class: FileBasedMessageGroup
+
+FILES:
+        class: JsonFFS
+        sourcePattern: "%GROUPROOT%/skins/MinervaNeue/%CODE%.json"
+        definitionFile: "%MWROOT%/skins/MinervaNeue/i18n/%CODE%.json"
+---
+BASIC:
         id: extension-VisualEditor
-        label: VisualEditor extension
+        label: ilo VisualEditor
         class: FileBasedMessageGroup
 
 FILES:
