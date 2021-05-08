@@ -4,6 +4,7 @@
 			"Tepo"
 		]
 	},
+	"minerva-last-modified-date": "tenpo $1 la tenpo $2 la lipu ni li ante. pini ni la ona li ante ala.",
 	"mobile-frontend-editor-edit": "o ante",
 	"mobile-frontend-history": "o lukin e tenpo pini pi lipu ni",
 	"mobile-frontend-home-button": "lipu open",
@@ -12,5 +13,10 @@
 	"mobile-frontend-main-menu-watchlist": "lipu lukin",
 	"mobile-frontend-placeholder": "o alasa lon lipu {{SITENAME}}",
 	"mobile-frontend-random-button": "lipu pi sona ala",
-	"mobile-frontend-user-page-contributions": "ante ona"
+	"mobile-frontend-user-page-contributions": "ante ona",
+	"minerva-page-actions-overflow": "ijo ante",
+	"minerva-page-actions-info": "ijo pi lipu ni",
+	"minerva-page-actions-user-groups": "kulupu pi jan ni",
+	"minerva-page-actions-language-switcher": "lipu ni lon toki ante",
+	"minerva-page-actions-history": "tenpo pini"
 }
