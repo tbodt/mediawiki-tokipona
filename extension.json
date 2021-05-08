@@ -9,8 +9,10 @@
 	"MessagesDirs": {
 		"TokiPona": [
 			"core",
-			"skins/Vector",
-			"extensions/VisualEditor"
+			"extensions/MobileFrontend",
+			"extensions/VisualEditor",
+			"skins/MinervaNeue",
+			"skins/Vector"
 		]
 	},
 	"manifest_version": 2
