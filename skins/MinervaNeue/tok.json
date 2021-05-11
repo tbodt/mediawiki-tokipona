@@ -1,14 +1,15 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tepo"
+			"Tepo",
+			"Weko"
 		]
 	},
-	"minerva-last-modified-date": "tenpo $1 la tenpo $2 la lipu ni li ante. pini ni la ona li ante ala.",
+	"minerva-last-modified-date": "ante nanpa pini pi lipu ni li lon suno $1 lon tenpo $2",
 	"mobile-frontend-editor-edit": "o ante",
 	"mobile-frontend-history": "o lukin e tenpo pini pi lipu ni",
 	"mobile-frontend-home-button": "lipu open",
-	"mobile-frontend-logged-in-homepage-notification": "jan $1 o, kama pona!",
+	"mobile-frontend-logged-in-homepage-notification": "{{o|$1}}, kama pona!",
 	"mobile-frontend-main-menu-contributions": "ante mi",
 	"mobile-frontend-main-menu-settings": "wile mi",
 	"mobile-frontend-main-menu-watchlist": "lipu lukin",
