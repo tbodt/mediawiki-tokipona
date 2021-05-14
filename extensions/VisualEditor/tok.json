@@ -1,6 +1,7 @@
 {
 	"@metadata": {
 		"authors": [
+			"Anna",
 			"Tepo",
 			"Weko",
 			"janTepo"
@@ -8,6 +9,14 @@
 	},
 	"accesskey-ca-editsource": "e",
 	"accesskey-ca-ve-edit": "v",
+	"collabpad-doctitle": "ilo CollabPad: $1",
+	"collabpad-import-subtitle": "tan $1",
+	"collabpad": "ilo CollabPad",
+	"tooltip-ca-createsource": "o pali e toki ilo pi lipu ni",
+	"tooltip-ca-edit": "o ante e lipu ni kepeken toki ilo",
+	"tooltip-ca-editsource": "o ante e toki ilo pi lipu ni",
+	"tooltip-ca-ve-edit": "o ante e lipu ni",
+	"visualeditor-advancedsettings-tool": "wile ante",
 	"visualeditor-ca-createsource": "o pali e lipu sin kepeken toki ilo",
 	"visualeditor-ca-editsource": "o ante e toki ilo",
 	"visualeditor-ca-editsource-section": "o ante e toki ilo"

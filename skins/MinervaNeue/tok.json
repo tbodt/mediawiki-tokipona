@@ -9,7 +9,7 @@
 	"mobile-frontend-editor-edit": "o ante",
 	"mobile-frontend-history": "o lukin e tenpo pini pi lipu ni",
 	"mobile-frontend-home-button": "lipu open",
-	"mobile-frontend-logged-in-homepage-notification": "{{o|$1}}, kama pona!",
+	"mobile-frontend-logged-in-homepage-notification": "{{nimi open|$1}} $1 o, kama pona!",
 	"mobile-frontend-main-menu-contributions": "ante mi",
 	"mobile-frontend-main-menu-settings": "wile mi",
 	"mobile-frontend-main-menu-watchlist": "lipu lukin",
