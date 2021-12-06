@@ -71,3 +71,14 @@ FILES:
         class: JsonFFS
         sourcePattern: "%GROUPROOT%/extensions/MobileFrontend/%CODE%.json"
         definitionFile: "%MWROOT%/extensions/MobileFrontend/i18n/%CODE%.json"
+
+---
+BASIC:
+        id: extension-TemplateData
+        label: ilo TemplateData
+        class: FileBasedMessageGroup
+
+FILES:
+        class: JsonFFS
+        sourcePattern: "%GROUPROOT%/extensions/TemplateData/%CODE%.json"
+        definitionFile: "%MWROOT%/extensions/TemplateData/i18n/%CODE%.json"
