@@ -449,6 +449,7 @@
 	"specialpages-group-pagetools": "ilo lipu",
 	"specialpages-group-spam": "ilo pi toki jaki",
 	"specialpages-group-developer": "ilo pi pali lipu",
+	"1movedto2": "li ante e nimi [[$1]] tawa nimi [[$2]]",
 	"searchsuggest-search": "o alasa lon lipu {{SITENAME}}",
 	"searchsuggest-containing": "o alasa e ni lon insa:",
 	"mw-widgets-mediasearch-input-placeholder": "o alasa e sitelen"
