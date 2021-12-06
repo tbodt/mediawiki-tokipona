@@ -10,6 +10,7 @@
 		"TokiPona": [
 			"core",
 			"extensions/MobileFrontend",
+			"extensions/TemplateData",
 			"extensions/VisualEditor",
 			"skins/MinervaNeue",
 			"skins/Vector"
