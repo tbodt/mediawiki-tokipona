@@ -6,15 +6,5 @@
 	"AutoloadClasses": {
 		"TokiPonaHooks": "TokiPonaHooks.php"
 	},
-	"MessagesDirs": {
-		"TokiPona": [
-			"core",
-			"extensions/MobileFrontend",
-			"extensions/TemplateData",
-			"extensions/VisualEditor",
-			"skins/MinervaNeue",
-			"skins/Vector"
-		]
-	},
 	"manifest_version": 2
 }

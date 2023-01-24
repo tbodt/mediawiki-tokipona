@@ -1,5 +1,5 @@
 # mediawiki-tokipona
 
-ilo Mediawiki li ken ala toki pona. nimi ISO-639 li lon ala tawa toki pona la jan pali pi ilo ni li wile ala ante e ilo tawa toki pona. ni la mi pali e ilo lili ni.
+tenpo ni la ilo Mediawiki li kama ken toki pona. o pana e pali kepeken ilo https://translatewiki.org.
 
-sina wile ante e toki la, o tawa ilo ni: https://wikipesija.org/wiki/ilo:Translate. ilo ni li wile e ni: ilo la sina ken ante e toki. o toki tawa mi, la mi ken pana e ken.
+toki ilo ni li awen lon tan ni: lipu MessagesTok.php li awen lon ala toki ilo mama. taso mi wile e ona tawa lipu https://wikipesija.org.
