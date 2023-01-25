@@ -14,8 +14,8 @@ $namespaceNames = [
 	NS_USER             => 'jan',
 	NS_USER_TALK        => 'toki_jan',
 	NS_PROJECT_TALK     => 'toki_$1',
-	NS_FILE             => 'ijo',
-	NS_FILE_TALK        => 'toki_ijo',
+	NS_FILE             => 'sitelen',
+	NS_FILE_TALK        => 'toki_sitelen',
 	NS_MEDIAWIKI        => 'MediaWiki',
 	NS_MEDIAWIKI_TALK   => 'toki_Mediawiki',
 	NS_TEMPLATE         => 'kipisi',
@@ -24,6 +24,11 @@ $namespaceNames = [
 	NS_HELP_TALK        => 'toki_pi_nasin_ilo',
 	NS_CATEGORY         => 'kulupu',
 	NS_CATEGORY_TALK    => 'toki_kulupu',
+];
+
+$namespaceAliases = [
+	'ijo' => NS_FILE,
+	'toki_ijo' => NS_FILE_TALK,
 ];
 
 $datePreferences = [
