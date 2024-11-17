@@ -1,5 +1,5 @@
 <?php
-/** Toki Pona (Toki Pona)
+/** Toki Pona (toki pona)
  *
  * @ingroup Language
  * @file
@@ -12,23 +12,32 @@ $namespaceNames = [
 	NS_SPECIAL          => 'ilo',
 	NS_TALK             => 'toki',
 	NS_USER             => 'jan',
-	NS_USER_TALK        => 'toki_jan',
-	NS_PROJECT_TALK     => 'toki_$1',
+	NS_USER_TALK        => 'jan_la_toki',
+	NS_PROJECT_TALK     => '$1_la_toki',
 	NS_FILE             => 'sitelen',
-	NS_FILE_TALK        => 'toki_sitelen',
+	NS_FILE_TALK        => 'sitelen_la_toki',
 	NS_MEDIAWIKI        => 'MediaWiki',
-	NS_MEDIAWIKI_TALK   => 'toki_Mediawiki',
+	NS_MEDIAWIKI_TALK   => 'MediaWiki_la_toki',
 	NS_TEMPLATE         => 'kipisi',
-	NS_TEMPLATE_TALK    => 'toki_kipisi',
+	NS_TEMPLATE_TALK    => 'kipisi_la_toki',
 	NS_HELP             => 'nasin_ilo',
-	NS_HELP_TALK        => 'toki_pi_nasin_ilo',
+	NS_HELP_TALK        => 'nasin_ilo_la_toki',
 	NS_CATEGORY         => 'kulupu',
-	NS_CATEGORY_TALK    => 'toki_kulupu',
+	NS_CATEGORY_TALK    => 'kulupu_la_toki',
 ];
 
 $namespaceAliases = [
+	# ijo => sitelen
 	'ijo' => NS_FILE,
 	'toki_ijo' => NS_FILE_TALK,
+
+	# toki_$1 => $1_la_toki
+	'toki_jan' => NS_USER_TALK,
+	'toki_sitelen' => NS_FILE_TALK,
+	'toki_MediaWiki' => NS_MEDIAWIKI_TALK,
+	'toki_kipisi' => NS_TEMPLATE_TALK,
+	'toki_pi_nasin_ilo' => NS_HELP_TALK,
+	'toki_kulupu' => NS_CATEGORY_TALK,
 ];
 
 $datePreferences = [
