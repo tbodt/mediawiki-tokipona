@@ -1,5 +1,6 @@
 {
 	"name": "TokiPona",
+	"license-name": "GPL-2.0-or-later",
 	"Hooks": {
 		"Language::getMessagesFileName": "TokiPonaHooks::onGetMessagesFileName"
 	},
